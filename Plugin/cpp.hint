@@ -1,0 +1,2 @@
+#define PLUGIN_API __declspec(dllexport)
+#define PLUGIN_API __declspec(dllimport)
